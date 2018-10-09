@@ -1,0 +1,26 @@
+{
+  "name": "create-react-app-xhm",
+  "version": "1.0.3",
+  "description": "fast generation of projects with create-react-app-xhm cli",
+  "main": "index.js",
+  "bin": {
+    "create-react-app-xhm": "bin/scion"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengyueran/Create-React-App-XHM.git"
+  },
+  "author": "xhm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengyueran/Create-React-App-XHM/issues"
+  },
+  "homepage": "https://github.com/fengyueran/Create-React-App-XHM#readme",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "shelljs": "^0.7.8"
+  }
+}
