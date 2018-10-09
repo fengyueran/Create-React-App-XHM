@@ -12,6 +12,7 @@ program
     .description('显示所有模板')
     .action(()=> {
         console.info(`ReactAppTemp`)
+        console.info(`ReactAppTemp-Simple`)
         console.info(`ReactAppTemp-Storybook`)
     });
 program
