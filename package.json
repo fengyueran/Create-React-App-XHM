@@ -1,6 +1,6 @@
 {
   "name": "create-react-app-xhm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "fast generation of projects with create-react-app-xhm cli",
   "main": "index.js",
   "bin": {
