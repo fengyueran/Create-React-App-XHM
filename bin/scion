@@ -11,9 +11,10 @@ program
     .command('list')
     .description('显示所有模板')
     .action(()=> {
-        console.info(`ReactAppTemp`)
-        console.info(`ReactAppTemp-Simple`)
-        console.info(`ReactAppTemp-Storybook`)
+        console.info(`react-app-template-simple`)
+        console.info(`react-app-template-redux`)
+        console.info(`react-app-template-storybook`)
+        console.info(`react-app-template-union`)
     });
 program
     .command('* <tpl> <project>')
