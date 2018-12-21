@@ -1,2 +1,2 @@
-# Create-React-App-XHM
-fast generation of projects with create-react-app-xhm cli
+# create-app-xhm
+fast generation of projects with create-app-xhm cli

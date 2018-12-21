@@ -11,6 +11,7 @@ program
     .command('list')
     .description('显示所有模板')
     .action(()=> {
+        console.info(`node-app-template`)
         console.info(`react-app-template-simple`)
         console.info(`react-app-template-redux`)
         console.info(`react-app-template-storybook`)
@@ -40,7 +41,7 @@ program
             }
             console.info(`创建完成`)
         } else {
-            console.error('正确命令例子：initapp-cli ReactAppTemp myproject')
+            console.error('正确命令例子：initapp-cli AppTemp myproject')
         }
     })
 program.parse(process.argv)
